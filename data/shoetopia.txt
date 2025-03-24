@@ -1,0 +1,75 @@
+## Dados ShoetopIA
+
+**Nome do E-commerce:** ShoetopIA
+
+**Slogan:** "Seu paraíso do calçado"
+
+**Descrição do E-commerce:** A ShoetopIA é uma plataforma de comércio eletrônico especializada em calçados para todos os estilos e ocasiões. Acreditamos que o calçado certo pode transformar qualquer look e nossa missão é tornar os sapatos dos seus sonhos acessíveis, com opções para todos os gostos e bolsos, desde o básico até o sofisticado.
+
+## Políticas da ShoetopIA
+
+1. **Política de Devolução:**
+   - A ShoetopIA oferece uma política de devolução de 30 dias para todos os calçados não utilizados e em perfeitas condições, na embalagem original.
+   - Os custos de envio de devolução são de responsabilidade do cliente, a menos que o produto tenha chegado com defeito ou danificado.
+   - Os reembolsos serão processados após a inspeção do produto devolvido e podem ser emitidos na forma de crédito na loja ou reembolso no método de pagamento original, conforme preferência do cliente.
+
+2. **Política de Privacidade:**
+   - Respeitamos sua privacidade e estamos comprometidos em proteger suas informações pessoais.
+   - As informações coletadas durante o processo de compra, como nome, endereço e informações de pagamento, são utilizadas apenas para fins de processamento de pedidos e comunicação com os clientes.
+   - Não compartilhamos suas informações com terceiros sem o seu consentimento.
+
+3. **Segurança:**
+   - Utilizamos tecnologia de criptografia de dados (SSL) para garantir que todas as informações de pagamento sejam transmitidas com segurança.
+   - Mantemos rigorosas medidas de segurança para proteger o banco de dados do cliente e evitar acessos não autorizados.
+
+4. **Qualidade e Garantia:**
+   - Na ShoetopIA, todos os produtos são cuidadosamente selecionados para garantir a melhor qualidade e conforto.
+   - Oferecemos garantia contra defeitos de fabricação por até 90 dias.
+   - Trabalhamos apenas com marcas reconhecidas no mercado, assegurando a qualidade e durabilidade dos calçados.
+
+5. **Atendimento ao Cliente:**
+   - Nossa equipe de atendimento ao cliente está disponível por chat ao vivo e e-mail (atendimento@shoetopia.com) para ajudar com perguntas, preocupações e assistência nas compras.
+   - Estamos comprometidos em fornecer um atendimento rápido e eficaz para garantir a satisfação dos clientes.
+
+6. **Entrega e Prazo de Envio:**
+   - Informamos os prazos de entrega estimados no momento da compra.
+   - Trabalhamos com transportadoras confiáveis para garantir a entrega segura e pontual dos calçados.
+   - Se houver atrasos inesperados na entrega, informamos imediatamente os clientes e buscamos soluções alternativas sempre que possível.
+
+7. **Sustentabilidade:**
+   - A ShoetopIA apoia iniciativas de reciclagem de calçados e busca minimizar o impacto ambiental de suas operações.
+   - Buscamos parcerias com marcas que utilizam materiais sustentáveis em seus produtos.
+
+8. **Avaliações e Comentários:**
+   - Encorajamos os clientes a deixarem avaliações e comentários sobre os produtos para ajudar outros clientes a tomar decisões informadas.
+
+9. **Descontos e Promoções:**
+   - Sapatos femininos ganham 20% de desconto com o cupom SaltoAlto20, válido até 31/12/2023.
+   - Sapatos masculinos ganham 15% de desconto com o cupom CasualStyle15, válido até 30/11/2023.
+   - Tênis esportivos ganham 25% de desconto com o cupom EsporteTotal25, válido até 31/10/2023.
+
+
+## Produtos Disponíveis
+
+1. **Sapatos Femininos:** Sandálias, Scarpins, Sapatilhas, Botas.
+    - Sandália Salto Alto Elegance: R$ 299,00
+    - Scarpin Clássico Black: R$ 180,00
+    - Sapatilha Conforto Daily: R$ 99,00
+    - Bota Cano Curto Urban Style: R$ 350,00
+
+2. **Sapatos Masculinos:** Sapatos Sociais, Mocassins, Sapatênis.
+    - Sapato Social Couro Legítimo: R$ 450,00
+    - Mocassim Casual Suede: R$ 220,00
+    - Sapatênis Moderno Couro: R$ 280,00
+
+3. **Tênis Esportivos:** Running, Training, Casual.
+    - Tênis Running Performance Boost: R$ 500,00
+    - Tênis Training Flex Pro: R$ 400,00
+    - Tênis Casual Street Style: R$ 300,00
+
+4. **Acessórios:** Meias, Cadarços, Palmilhas.
+    - Meias Esportivas Performance (kit 3 pares): R$ 45,00
+    - Cadarços Coloridos (kit 2 pares): R$ 20,00
+    - Palmilhas Conforto Plus: R$ 50,00
+
+A ShoetopIA se esforça para ser a plataforma de referência para amantes de calçados, oferecendo uma ampla variedade de estilos e marcas para todos os gostos e necessidades.

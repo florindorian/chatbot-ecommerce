@@ -1,0 +1,10 @@
+IMPORTANTE:
+Ao rodar a aplicação, fazer requisições por "localhost:5000" não funcionará.
+O chat ficará carregando indefinidamente.
+
+Correção: fazer as requisições por "127.0.0.1:5000"
+Que é como está escrito no /static/js/index.js:
+
+    ...
+    const resposta = await fetch("http://127.0.0.1:5000/chat", {
+    ...
