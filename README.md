@@ -4,6 +4,11 @@
 
 Este projeto consiste em um chatbot construído a partir da API do Gemini. Seu objetivo é servir somo um assistente, responder a dúvidas de clientes e assumir diferentes comportamentos de acordo com o temperamento do cliente. Para exemplificar, foi escolhido um negócio de calçados chamado <strong style='color:red;'>ShoetopIA</strong>.
 
+<div align="center">
+    <img src="./data/tenis1.jpeg">
+</div>
+
+
 ## 🧩 Tecnologias
 
 |    |                | 
